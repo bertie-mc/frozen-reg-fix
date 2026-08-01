@@ -1,3 +1,5 @@
+> **Development has moved:** See [the `frozen-reg-fix` module in the Bertie monorepo](https://github.com/bertie-mc/bertie/tree/main/mods/frozen-reg-fix). This repository is retained read-only for historical tags, releases, and issues.
+
 # Frozen Registry Fix
 
 Runtime patch for *Immersive Armors*: initializes its lazy armor materials before a
